@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shimaa1995
+- 👋 Hi, I’m @Alshimaa Mohamed
 - 👀 I’m interested in Embedded Systems and AI 
 - 🌱 I’m currently learning AI
 - 📫 How to reach me https://www.linkedin.com/in/alshaimaa-mohammad-452a78130/ 
